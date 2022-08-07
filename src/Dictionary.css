@@ -1,3 +1,14 @@
+.Dictionary section {
+  margin: 20px 0;
+  background: #eeefe9;
+  padding: 30px;
+  border-radius: 16px;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 6px 4px;
+}
 .Dictionary {
   text-align: center;
 }
