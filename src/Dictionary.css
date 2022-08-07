@@ -1,3 +1,9 @@
+.Dictionary .title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
 .Dictionary h1 {
   font-size: 18px;
   font-weight: bold;
@@ -7,7 +13,7 @@
 
 .Dictionary section {
   margin: 20px 0;
-  background: #eeefe9;
+  background: #c9d2df;
   padding: 30px;
   border-radius: 16px;
 }
